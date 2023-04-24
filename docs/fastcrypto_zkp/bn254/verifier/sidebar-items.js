@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["process_vk_special","verify_with_processed_vk"],"struct":["PreparedVerifyingKey"]};
